@@ -7,6 +7,9 @@ public class Registration {
         if(medium.equals("Child")){
             //write logic using twillio API
         }
+        if(medium.equals("Senior citizen")){
+            //write logic using twillio API
+        }
     }
 
     public void registerForNonNRI(String medium){
@@ -17,5 +20,11 @@ public class Registration {
         if(medium.equals("Child")){
             //write logic using twillio API
         }
+        if(medium.equals("Senior citizen")){
+            //write logic using twillio API
+        }
+
     }
+
+
 }
